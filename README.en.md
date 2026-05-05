@@ -105,4 +105,4 @@ CO0K1E
 
 ## 📄 License
 
-Not specified yet
+MIT License
