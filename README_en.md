@@ -99,7 +99,7 @@ The project uses:
 
 ## 👤 Author
 
-Ali
+CO0K1E
 
 ---
 
