@@ -1,7 +1,7 @@
 ## 🌐 Language
 
 - 🇬🇧 English [README.en.md](README.en.md)
-- 🇷🇺 Русский [README.ru.md](README.ru.md)
+- 🇷🇺 Русский (default)
 
 # Nohchi++ (Нохчи Плюс Плюс)
 
