@@ -32,6 +32,8 @@ The goal of the project is to explore:
 ```cpp
 #include "noxchi_plus_plus.h"
 
+using namespace нохчо;
+
 БОЛХ_БОЛО
 
     доллутерахь x = 5;
