@@ -32,6 +32,8 @@
 ```cpp id="example001"
 #include "noxchi_plus_plus.h"
 
+using namespace нохчо;
+
 БОЛХ_БОЛО
 
     доллутерахь x = 5;
